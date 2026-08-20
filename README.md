@@ -100,8 +100,6 @@ module "vpc_dev" {
 
 <img width="1919" height="1079" alt="Снимок экрана 2026-08-18 222022" src="https://github.com/user-attachments/assets/f955f121-3b2e-49c3-aeb8-180244f8c625" />
 
-<img width="1914" height="1079" alt="Снимок экрана 2026-08-18 222210" src="https://github.com/user-attachments/assets/064f1267-d1f1-4748-8744-ed3199d36b14" />
-
 В итоге после выполнения `apply` мы видим, что изменения не значительные
 
-<img width="1914" height="1079" alt="image" src="https://github.com/user-attachments/assets/06c2788f-7783-4449-a615-e09f00582a8a" />
+<img width="1914" height="1079" alt="Снимок экрана 2026-08-18 222210" src="https://github.com/user-attachments/assets/064f1267-d1f1-4748-8744-ed3199d36b14" />
